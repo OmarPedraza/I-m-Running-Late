@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<!-- Common strings -->
+	<string name="app_name">Running Late</string>
+	<string name="cancel">Cancel</string>
+	<string name="settings">Settings</string>
+
+	<!-- Current Location Activity strings -->
+	<string name="current_location">Your current location is:</string>
+	<string name="running_late">I´m running late!</string>
+	<string name="preferences">Preferences</string>
+
+	<!-- Destination Activity strings -->
+	<string name="change_destination">Change destination</string>
+	<string name="destination">Your destination is:</string>
+	<string name="destination_not_found_message">It was impossible to find the given location, please try again</string>
+	<string name="destination_not_found_title">Destination not found</string>
+	<string name="destination_not_set_message">It\'s mandatory to set your destination to open Google Navigation</string>
+	<string name="destination_not_set_title">Destination not set</string>
+	<string name="google_maps_button">Go Google Navigation!</string>
+	<string name="notify_button">Let them know</string>
+	<string name="ok">OK</string>
+	<string name="set_destination">Set address destination</string>
+
+	<!-- Location Service strings -->
+	<string name="gps_disabled">GPS is disabled</string>
+	<string name="location_settings">GPS is not enabled. Do you want to go to Settings menu and enable your GPS?</string>
+
+	<!-- Notify Activity strings -->
+	<string name="email">eMail</string>
+	<string name="google_play">Google Play</string>
+	<string name="phone">Phone call</string>
+	<string name="sms">SMS</string>
+	<string name="whatsapp">WhatsApp</string>
+	<string name="whatsapp_not_found_message">It\'s impossible to open WhatsApp because it\'s not installed on the phone. Do you want to go to Google Play and download it?</string>
+	<string name="whatsapp_not_found_title">WhatsApp not found</string>
+
+	<!-- Preferences strings -->
+	<string name="text_category">Message text</string>
+	<string name="text_summary">Set your desired message text to notify</string>
+	<string name="default_message">Hi there! I\'m running late, so… please wait a little bit more for me. I\'m sorry!</string>
+
+	<!-- Request Async Task strings -->
+	<string name="internet_disabled">Internet connection unavailable</string>
+	<string name="internet_settings">Impossible to connect. Do you want to go to Settings menu and check your internet connection?</string>
+	<string name="searching_destination">Searching destination…</string>
+</resources>

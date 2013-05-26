@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<!-- Common strings -->
+	<string name="app_name">Running Late</string>
+	<string name="cancel">Cancelar</string>
+	<string name="settings">Ajustes</string>
+
+	<!-- Current Location Activity strings -->
+	<string name="current_location">Estás en:</string>
+	<string name="running_late">¡Que llego tarde!</string>
+	<string name="preferences">Preferencias</string>
+
+	<!-- Destination Activity strings -->
+	<string name="change_destination">Cambiar destino</string>
+	<string name="destination">Tu destino es:</string>
+	<string name="destination_not_found_message">No ha sido posible encontrar la localización dada, por favor inténtalo de nuevo</string>
+	<string name="destination_not_found_title">Destino no encontrado</string>
+	<string name="destination_not_set_message">Es necesario que indiques tu destino para abrir la navegación de Google</string>
+	<string name="destination_not_set_title">Destino no fijado</string>
+	<string name="google_maps_button">A Google Navigation</string>
+	<string name="notify_button">Avísales</string>
+	<string name="ok">OK</string>
+	<string name="set_destination">Fijar dirección de destino</string>
+
+	<!-- Location Service strings -->
+	<string name="gps_disabled">GPS desactivado</string>
+	<string name="location_settings">El GPS no está activado. ¿Quieres ir a Ajustes para activarlo?</string>
+
+	<!-- Notify Activity strings -->
+	<string name="email">eMail</string>
+	<string name="google_play">Google Play</string>
+	<string name="phone">Teléfono</string>
+	<string name="sms">SMS</string>
+	<string name="whatsapp">WhatsApp</string>
+	<string name="whatsapp_not_found_message">WhatsApp no se puede abrir porque no está instalado en el móvil. ¿Quieres ir a Google Pay a descargarlo?</string>
+	<string name="whatsapp_not_found_title">No se ha encontrado WhatsApp</string>
+
+	<!-- Preferences strings -->
+	<string name="text_category">Texto del mensaje</string>
+	<string name="text_summary">Personalizar el texto del mensaje de aviso para tus amigos</string>
+	<string name="default_message">¡Ey! Me parece que voy a llegar tarde, por favor esperadme un poco más. ¡Lo siento!</string>
+
+	<!-- Request Async Task strings -->
+	<string name="internet_disabled">Fallo en la conexión a Internet</string>
+	<string name="internet_settings">Ha sido imposible realizar la conexión. ¿Quieres ir a Ajustes y revisar tu conexión a Internet?</string>
+	<string name="searching_destination">Buscando el destino…</string>
+</resources>
